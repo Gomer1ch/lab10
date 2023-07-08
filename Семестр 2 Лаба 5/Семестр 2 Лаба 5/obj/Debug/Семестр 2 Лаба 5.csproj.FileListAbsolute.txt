@@ -1,0 +1,27 @@
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.exe.config
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csprojAssemblyReference.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.Properties.Resources.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.GenerateResource.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.exe
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.pdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Лаба 5.mdb
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.Form1.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.FormZakazEdit.resources
+C:\Users\GamerHead\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.FormTovarEdit.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Лаба 5.mdb
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.exe.config
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\bin\Debug\Семестр 2 Лаба 5.pdb
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.AssemblyReference.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.Form1.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.FormTovarEdit.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.FormZakazEdit.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр_2_Лаба_5.Properties.Resources.resources
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.GenerateResource.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.csproj.CoreCompileInputs.cache
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.exe
+C:\Users\Gomerich\source\repos\Семестр 2 Лаба 5\Семестр 2 Лаба 5\obj\Debug\Семестр 2 Лаба 5.pdb
